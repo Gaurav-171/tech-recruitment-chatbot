@@ -112,7 +112,7 @@ The app follows a linear flow across three pages:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/vinu0404/tech-recruitment-chatbot.git
+   git clone https://github.com/Gaurav-171/tech-recruitment-chatbot.git
    cd tech-recruitment-chatbot
    ```
 
