@@ -1,0 +1,28 @@
+{
+  "candidate_id": "Gaurav Mishra_20250906_235715",
+  "candidate_info": {
+    "name": "Gaurav Mishra",
+    "email": "ajkguyAGS@GMAIL.COM",
+    "phone": "4578963215",
+    "experience": "Fresher",
+    "position": "AI",
+    "location": "LONDON",
+    "tech_stack": [
+      "Python",
+      "React",
+      "MongoDB",
+      "Jenkis"
+    ],
+    "timestamp": "2025-09-06T23:57:14.545846"
+  },
+  "questions": [
+    "Can you walk me through your process for setting up a Python environment for an AI project, and how you'd handle version control with tools like Jenkins?",
+    "How would you approach building a simple chatbot using Python and natural language processing techniques, and what libraries would you use to get started?",
+    "Imagine you're tasked with creating a React-based dashboard to visualize AI model performance metrics stored in a MongoDB database. How would you structure your application, and what components would you prioritize building first?",
+    "Suppose you're working on an AI-powered recommendation system, and you need to integrate data from multiple sources stored in MongoDB. How would you design a data pipeline to preprocess and merge this data, and what Python tools would you use for the task?",
+    "If you were given a dataset of user interactions with a web application, how would you use Python and AI techniques to identify patterns and predict user churn, and what features would you extract from the data to inform your model?"
+  ],
+  "generated_at": "2025-09-06T23:57:15.288240",
+  "total_questions": 5,
+  "current_question_index": 3
+}
